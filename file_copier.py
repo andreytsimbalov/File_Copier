@@ -26,4 +26,4 @@ def file_copier(file_xml):
 
 
 if __name__ == "__main__":
-    file_copier("config_1.xml")
+    file_copier("config.xml")
